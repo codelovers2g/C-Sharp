@@ -1,0 +1,19 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.doccache
+*.userprefs
+
+# VS Code
+.vscode/
+
+# Build results
+[Rr]elease/
+x64/
+x86/
+build/
+publish/
+/.vs
